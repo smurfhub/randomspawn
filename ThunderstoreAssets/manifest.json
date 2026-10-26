@@ -1,0 +1,10 @@
+{
+  "namespace":  "Smurfhub",
+  "name":  "RandomSpawn",
+  "version_number":  "0.1.0",
+  "website_url":  "",
+  "description": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
