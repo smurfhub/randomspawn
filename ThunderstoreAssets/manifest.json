@@ -1,9 +1,9 @@
 {
   "namespace":  "Smurfhub",
   "name":  "RandomSpawn",
-  "version_number":  "0.1.0",
-  "website_url":  "",
-  "description": "",
+  "version_number":  "1.0.0",
+  "website_url":  "https://github.com/smurfhub/randomspawn",
+  "description": "Mod de Valheim para BepInEx que elige un punto aleatorio cerca de una estructura de Meadows cuando vanilla no tiene una cama o un punto de logout aplicable.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2333"
   ]
